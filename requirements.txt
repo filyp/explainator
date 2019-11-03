@@ -12,6 +12,8 @@ googleapis-common-protos==1.6.0
 grpcio==1.24.3
 h5py==2.10.0
 idna==2.8
+ipykernel
+jupyterlab
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
