@@ -13,7 +13,7 @@
 	- Then, execute following lines:
     	```sh
         bash
-    	pip install --user virtualenv
+    	chmod +x windows.sh
     	./windows.sh
         ```
 
@@ -28,7 +28,7 @@
 		```
 	- Then, execute following:
     	```sh
-    	pip install --user virtualenv
+    	chmod +x nix.sh
     	./nix.sh
     	```
 ## How to run examples in notebook
