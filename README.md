@@ -13,7 +13,7 @@
 	- Then, execute following lines:
     	```sh
         bash
-    	chmod +x windows.sh
+    	chmod u+x windows.sh
     	./windows.sh
         ```
 
@@ -28,7 +28,7 @@
 		```
 	- Then, execute following:
     	```sh
-    	chmod +x nix.sh
+    	chmod u+x nix.sh
     	./nix.sh
     	```
 ## How to run examples in notebook

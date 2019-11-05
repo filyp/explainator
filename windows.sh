@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+set -e
+
 pip install virtualenv
 pip install jupyterlab
 virtualenv -p python venv
